@@ -27,7 +27,7 @@ Two conclusions that can be be made from the outcomes by launch date are:
 One conclusion about the outcome by goals is:
 1.Plays that have a goal ratio between $44,999 to $49,999 are very unsuccessful and should not be looked.
 
-Limitations On thr Data Set.
+Limitations On the Data Set.
 1. The sample size is limited. The data set does not clearly represent all the outcomes based on the goals and their launch dates.There could be a different sample size which shows in a different sense that the seasons might actually be an indicator of whether someon would want to watch a play or not.
 
 What are some other possible tables and/or graphs that we could create?
